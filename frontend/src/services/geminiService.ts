@@ -3,7 +3,7 @@ import { newsApi } from '../redux/db/verified_news.Api';
 
 class GeminiService {
   private maxRetries = 3;
-  private retryDelay = 1000; // 1 second
+  private retryDelay = 1000; 
 
   /**
    * Kiểm tra tin tức với Gemini AI
