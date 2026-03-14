@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Fact Checker - Xác Thực Tin Tức",
+  "description": "Hệ thống kiểm tra tính xác thực của tin tức sử dụng trí tuệ nhân tạo Gemini với khả năng tra cứu thông tin thời gian thực.",
+  "requestFramePermissions": []
+}

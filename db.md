@@ -1,0 +1,1 @@
+DATA-BASE='mongodb+srv://checkcuahieu:wmkSNXIn6cRcFmzH@checkcuahieu.shtdfsc.mongodb.net/'
